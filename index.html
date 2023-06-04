@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ds | Jewelry store</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Acme&family=Dancing+Script:wght@700&family=Inconsolata&family=Kalam&family=Montserrat:ital,wght@0,300;0,400;1,700&family=Noto+Sans+Mono:wght@600&family=Open+Sans:wght@300;400;700&family=Roboto+Mono:wght@500&display=swap');
+      </style>
+      <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">Ds | Jewelry store</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo">Ds | Jewelry store</h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active" href="#todos"><i class="bi bi-hand-index-thumb-fill"></i> All items</button>
+                    </li>
+                    <li>
+                        <button id="ring" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Rings</button>
+                    </li>
+                    <li>
+                        <button id="necklace" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Necklaces</button>
+                    </li>
+                    <li>
+                        <button id="watch" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Watches</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="./carrito2.html">
+                            <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <button class="boton-cerrar"><a href="login.html">Iniciar Sesión</a></button>
+            <footer>
+                <p class="texto-footer">© 2023 Danier Ortega</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los Juegos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+              
+               
+        
+            </div>
+           
+            
+        </main>
+    </div>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/index.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+</html>

@@ -1,0 +1,163 @@
+[
+    {
+        "id": "r-001",
+        "titulo": "Victoriavine",
+        "imagen": "./img/rings/victoriavine.jpg",
+        "categoria": {
+            "genero":"victoriavine",
+            "nombre": "Rings",
+            "id": "ring"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "r-002",
+        "titulo": "tiffany-victoriavine",
+        "imagen": "./img/rings/tiffany-victoriavine-ring-68386594_1025726_ED_M.jpg",
+        "categoria": {
+            "nombre": "victoriavine2",
+            "id": "ring"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "r-003",
+        "titulo": "tiffany-solestefull-eternity",
+        "imagen": "./img/rings/tiffany-solestefull-eternity-ring-32064868_1039996_ED_M.jpg",
+        "categoria": {
+            "nombre": "solestefull",
+            "id": "ring"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "r-004",
+        "titulo": "tiffany-keysmodern-keys",
+        "imagen": "./img/rings/tiffany-keysmodern-keys-ring-62994940_1045456_ED_M.jpg",
+        "categoria": {
+            "nombre": "keysmodern",
+            "id": "ring"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "r-005",
+        "titulo": "tiffany-schlumbergersixteen-stone",
+        "imagen": "./img/rings/tiffany-co-schlumbergersixteen-stone-ring-60696632_1037579_ED_M.jpg",
+        "categoria": {
+            "nombre": "stone",
+            "id": "ring"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "r-006",
+        "titulo": "atlasx-closed-narrow",
+        "imagen": "./img/rings/atlasx-closed-narrow-ring-67786688_1020002_ED_M.jpg",
+        "categoria": {
+            "nombre": "atlasx",
+            "id": "ring"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "n-001",
+        "titulo": "tiffany-tsmile-pendant",
+        "imagen": "./img/necklaces/tiffany-tsmile-pendant-62617691_985524_ED.jpg",
+        "categoria": {
+            "nombre": "tsmile",
+            "id": "necklace"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "n-002",
+        "titulo": "tiffany-solestependant",
+        "imagen": "./img/necklaces/tiffany-solestependant-32814867_933522_ED.jpg",
+        "categoria": {
+            "nombre": "solestependant",
+            "id": "necklace"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "n-003",
+        "titulo": "tiffany-knotpendant",
+        "imagen": "./img/necklaces/tiffany-knotpendant-68887208_1024724_ED.jpg",
+        "categoria": {
+            "nombre": "knotpendant",
+            "id": "necklace"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "n-004",
+        "titulo": "tiffany-hardweargraduated",
+        "imagen": "./img/necklaces/tiffany-hardweargraduated-link-necklace-38086766_1025207_ED.jpg",
+        "categoria": {
+            "nombre": "hardweargraduated",
+            "id": "necklace"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "n-005",
+        "titulo": "tiffany-schlumbergerlynn",
+        "imagen": "./img/necklaces/tiffany-co-schlumbergerlynn-pendant-23349833_1025987_ED.jpg",
+        "categoria": {
+            "nombre": "schlumbergerlynn",
+            "id": "necklace"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "w-001",
+        "titulo": "Collection Santos de Cartier",
+        "imagen": "./img/watches/PLP_Collection_Santos_de_Cartier.jpg",
+        "categoria": {
+            "nombre": "santos-cartier",
+            "id": "watch"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "w-002",
+        "titulo": "rolex green",
+        "imagen": "./img/watches/day-date-yellow-gold-green-dial.jpg",
+        "categoria": {
+            "nombre": "rolex-green",
+            "id": "watch"
+        },
+        "precio": 13000
+    },
+    {
+        "id": "w-003",
+        "titulo": "rolex blue",
+        "imagen": "./img/watches/124200-Blue.jpg",
+        "categoria": {
+            "nombre": "rolex-blue",
+            "id": "watch"
+        },
+        "precio": 11000
+    },
+    {
+        "id": "w-004",
+        "titulo": "Patek green",
+        "imagen": "./img/watches/1681240521-WLP180662_0_1_png.jpg",
+        "categoria": {
+            "nombre": "patek-green",
+            "id": "watch"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "w-005",
+        "titulo": "gucci 1",
+        "imagen": "./img/watches/1665407811-WMGUC0052_0_1_png.jpg",
+        "categoria": {
+            "nombre": "gucci-01",
+            "id": "watch"
+        },
+        "precio": 19000
+    }
+]
